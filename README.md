@@ -1,7 +1,7 @@
 # casino-game
 A casino/betting style game developed in Java (Processing 3.5.4)
 
-For proof of concept, this game allows the user to roll both on behalf of the casino as well as the user. 
+For proof of concept, the uploaded code allows the user to roll both on behalf of the casino as well as the user. 
 If someone would like the version where the casino rolls automatically, feel free to contact me via email: nihalsahu360@gmail.com
 
 The game has the ability to check funds to see if the user can still playing (or if they've gone bankrupt :/ ) 
