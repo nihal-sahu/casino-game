@@ -12,4 +12,4 @@ The game has the ability to check funds to see if the user can still playing (or
 
 ![image](https://user-images.githubusercontent.com/87585163/133198611-605bdd6b-06a1-4205-af0e-d3bfb21aa167.png)
 
-![image](https://user-images.githubusercontent.com/87585163/133198636-d3dd775c-ed39-4075-b484-c51b3965d4fb.png)
+![image](https://user-images.githubusercontent.com/87585163/133198738-6330c144-83fb-4099-8a08-33bfb8fd9783.png)
