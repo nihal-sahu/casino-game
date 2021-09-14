@@ -1,6 +1,3 @@
-//Dice Game
-//Nihal Sahu
-
 int casinoRoll = (int)random(1, 7);
 int playerRoll = (int)random(1, 7);
 
