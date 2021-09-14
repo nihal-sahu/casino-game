@@ -119,7 +119,7 @@ void keyPressed() {
     }
   }  
   
-  //if user makes a bet and presses the acceptable keys
+   //if user makes a bet and presses the acceptable keys
   if ((key - 48) <= 9 && key - 48 > 0) {
     if (wallet - ((key - 48) * 100) >= 0) {
       bet = (key - 48) * 100;
@@ -138,6 +138,4 @@ void keyPressed() {
       casinoWin = false;
     }
   }
-  
-  
 }
